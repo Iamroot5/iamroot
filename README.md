@@ -1,1 +1,3 @@
 # iamroot
+
+cd iamroot1
