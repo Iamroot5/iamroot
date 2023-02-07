@@ -1,4 +1,4 @@
-#coded by N17RO (noob hackers)
+#mod by i am root
 
 #modules required
 import argparse
@@ -35,7 +35,7 @@ print (red+"""
                                                       v 1.0
 """+red)
 print (lgreen+bold+"         <===[[ coded by N17RO ]]===> \n"+clear)
-print (yellow+bold+"   <---(( search on youtube Noob Hackers ))--> \n"+clear)
+print (yellow+bold+"   <---(( search on Facebook i am root ))--> \n"+clear)
 
 
 ip = args.target
